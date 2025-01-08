@@ -4,7 +4,7 @@ This is a clone website for Razorpay, a popular online payments platform in Indi
 
 ⭕ This Site is Fully Responsive
 
-## 📌 **Live Site URL:** <a href="https://razorpay-clone-kushal.vercel.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
 
 
 ## Razorpay Landing Page
@@ -37,4 +37,4 @@ To set up the project locally, follow these steps:
 
 ### Thank you for checking out the RazorPay Clone! We hope you enjoy exploring its features and functionalities. Have a great day! 👋
 ## 📬 Connect With Me
-- **LinkedIn** - [Kushal Kumar](https://www.linkedin.com/in/kushal-kumar-5957b4277/)
+- **LinkedIn** - [Ritesh Yadav]()
